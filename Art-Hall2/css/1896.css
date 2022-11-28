@@ -1,0 +1,528 @@
+@media (min-width:1896px){
+  .cont {
+    width: 1896px;
+    background-image: url('../img/base-1896px.png');*/
+    margin: 0 auto;
+  }
+  .hwork-str {
+    width: 1102px;
+    height: 120px;
+    left: 0px;
+  }
+  .hwork-str-ckl {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    line-height: 100px;
+    left: 10px;
+    top: 10px;
+    font-size: 38px;
+    line-height: 100px;
+  }
+  .hwork-str-op {
+    width: 972px;
+    height: 98px;
+    left: 120px;
+    top: 10px;
+    font-size: 24px;
+  }
+  .hwork-str-img {
+    width: 100px;
+    height: 100px;
+  }
+  #up-str {
+    width: 1896px;
+    height: 80px;
+  }
+  #us-name {
+    width: 685px;
+    height: 62px;
+    left: 256px;
+    top: 18px;
+    font-size: 34px;
+    line-height: 40px;
+  }
+  #us-fone {
+    width: 388px;
+    height: 62px;
+    left: 892px;
+    top: 18px;
+    font-size: 34px;
+    line-height: 40px;
+  }
+  #us-btn {
+    width: 204px;
+    height: 36px;
+    left: 1260px;
+    top: 20px;
+  }
+  #us-btn-img {
+    width: 15px;
+    height: 20px;
+    left: 8px;
+    top: 8px;
+  }
+  #us-btn-txt {
+    width: 170px;
+    height: 19px;
+    left: 32px;
+    top: 4px;
+    font-size: 20px;
+    line-height: 23px;
+  }
+  #main-block {
+    width: 100%;
+    height: 720px;
+    top: 80px;
+    background-size: 120%;
+  }
+  #mb-mot {
+    width: 358px;
+    height: 472px;
+    left: 376px;
+    top: 92px;
+  }
+  #mb-mot-a {
+    width: 458px;
+    height: 348px;
+    left: 0px;
+    top: 0px;
+    font-size: 40px;
+    line-height: 58px;
+  }
+  #mb-mot-b {
+    width: 458px;
+    height: 116px;
+    left: 0px;
+    top: 347px;
+    font-size: 40px;
+    line-height: 58px;
+
+  }
+  #bt-form {
+    width: 570px;
+    height: 457px;
+    left: 1020px;
+    top: 92px;
+  }
+  #preim {
+    width: 1896px;
+    height: 1282px;
+    margin: 0 auto;
+    top: 800px;
+  }
+  #pr-h{
+    width: 1896px;
+    height: 120px;
+    margin-top: 0px;
+    font-size: 38px;
+    line-height: 120px;
+  }
+  #pr-block {
+    position:absolute;
+    left: 377px;
+    top:120px;
+    width: 1896px;
+  }
+  #pr-pz-1{
+    width: 380px;
+    height: 380px;
+    left: 0px;
+    top: 0px;
+    background-size: 115%;
+  }
+  #pr-pz-1-1 {
+    width: 360px;
+    height: 360px;
+    left: 10px;
+    top: 10px;
+  }
+  #pr-pz-1-2 {
+    width: 300px;
+    height: 160px;
+    left: 40px;
+    top: 117px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  #pr-pz-2{
+    width: 380px;
+    height: 380px;
+    left: 380px;
+    top: 0px;
+  }
+  #pr-pz-2-img {
+    width: 95px;
+    height: 95px;
+    left: 143px;
+    top: 52px;
+  }
+  #pr-pz-2-txt{
+    width: 309px;
+    height: 150px;
+    left: 36px;
+    top: 190px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  #pr-pz-3{
+    width: 380px;
+    height: 380px;
+    left: 760px;
+    top: 0px;
+  }
+  #pr-pz-3-txt{
+    width: 336px;
+    height: 90px;
+    left: 22px;
+    top: 190px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  #pr-pz-3-img {
+    width: 85px;
+    height: 94px;
+    left: 147px;
+    top: 53px;
+  }
+  #pr-pz-4{
+    width: 380px;
+    height: 380px;
+    left: 0px;
+    top: 380px;
+  }
+  #pr-pz-4-txt {
+    width: 335px;
+    height: 90px;
+    left: 23px;
+    top: 190px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  #pr-pz-4-img{
+    width: 94px;
+    height: 87px;
+    left: 143px;
+    top: 50px;
+
+  }
+  #pr-pz-5{
+    width: 380px;
+    height: 380px;
+    left: 380px;
+    top: 380px;
+  }
+  #pr-pz-5-1 {
+    width: 360px;
+    height: 360px;
+    left: 10px;
+    top: 10px;
+  }
+  #pr-pz-5-2 {
+    width: 264px;
+    height: 90px;
+    left: 59px;
+    top: 137px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  #pr-pz-6{
+    width: 380px;
+    height: 380px;
+    left: 760px;
+    top: 380px;
+  }
+  #pr-pz-6-txt {
+    width: 336px;
+    height: 120px;
+    left: 22px;
+    top: 190px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  #pr-pz-6-img {
+    width: 96px;
+    height: 90px;
+    left: 142px;
+    top: 50px;
+
+  }
+  #pr-pz-7{
+    width: 380px;
+    height: 380px;
+    left: 0px;
+    top: 760px;
+  }
+  #pr-pz-7-txt{
+    width: 360px;
+    height: 120px;
+    left: 10px;
+    top: 190px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  #pr-pz-7-img {
+    width: 96px;
+    height: 90px;
+    left: 144px;
+    top: 50px;
+  }
+  #pr-pz-8{
+    width: 380px;
+    height: 380px;
+    left: 380px;
+    top: 760px;
+  }
+  #pr-pz-8-txt {
+    width: 360px;
+    height: 60px;
+    left: 10px;
+    top: 190px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  #pr-pz-8-img {
+    width: 125px;
+    height: 88px;
+    left: 128px;
+    top: 50px;
+  }
+  #pr-pz-9{
+    width: 380px;
+    height: 380px;
+    left: 760px;
+    top: 760px;
+    background-size: 115%;
+  }
+  #pr-pz-9-1 {
+    width: 360px;
+    height: 360px;
+    left: 10px;
+    top: 10px;
+
+  }
+  #pr-pz-9-2 {
+    width: 300px;
+    height: 160px;
+    top: 145px;
+    font-size: 24px;
+    line-height: 30px;
+
+  }
+  #pr-img {
+    width: 357px;
+    height: 1162px;
+    left: 1517px;
+    top: 120px;
+  }
+  #portfolio {
+    width: 1896px;
+    height: 1420px;
+    top: 2060px;
+  }
+  #port-head{
+    position:absolute;
+    top: 140;
+    width: 1896px;
+  }
+  #port-h2{
+    line-height: 60px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight:normal;
+    font-size:38px;
+    text-align:center;
+  }
+  #port-h-p {
+    line-height: 30px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight:normal;
+    font-size:24px;
+    text-align:center;
+    color:#FF8330;
+  }
+  #port-str-1 {
+    width: 1896px;
+    height: 650px;
+
+  }
+  #port-st1-op{
+    width: 948px;
+    height: 650px;
+    left: 0px;
+    top: 0px;
+    font-size: 36px;
+    line-height: 60px;
+  }
+  #port-st1-img {
+    width: 948px;
+    height: 650px;
+    left: 948px;
+    top: 0px;
+
+  }
+  #port-st1-img-br {
+    width: 908px;
+    height: 610px;
+    left: 20px;
+    top: 20px;
+  }
+  #port-st1-img-txt{
+    width: 809px;
+    height: 192px;
+    left: 70px;
+    top: 249px;
+    font-size: 36px;
+    line-height: 60px;
+  }
+  #port-str-2 {
+    width: 1896px;
+    height: 650px;
+    top: 827px;
+  }
+  #port-st2-op{
+    width: 948px;
+    height: 650px;
+    left: 948px;
+    top: 0px;
+    font-size: 36px;
+    line-height: 60px;
+  }
+  #port-st2-img {
+    width: 948px;
+    height: 650px;
+    left: 0px;
+    top: 0px;
+  }
+  #port-st2-img-br {
+    width: 908px;
+    height: 610px;
+    left: 20px;
+    top: 20px;
+  }
+  #port-st2-img-txt{
+    width: 809px;
+    height: 192px;
+    left: 70px;
+    top: 249px;
+    font-size: 36px;
+    line-height: 60px;
+
+  }
+  #h-work {
+    width: 1896px;
+    height: 1608px;
+    margin: 0 auto;
+    top: 3536px;
+
+  }
+  #hw-h {
+    width: 1896px;
+    height: 120px;
+    left: 0px;
+    top: 0px;
+    font-size: 38px;
+    line-height: 120px;
+    margin-top: 0px; 
+  }
+  #hw-im-1 {
+    width: 734px;
+    height: 734px;
+    left: 20px;
+    top: 120px;
+  }
+  #hw-im-2 {
+    width: 734px;
+    height: 734px;
+    left: 20px;
+    top: 874px;
+  }
+  #hw-text {
+    width: 1102px;
+    height: 1443px;
+    left: 774px;
+    top: 143px;
+  }
+  #hw-t-st01 {
+    top: 0px;
+  }
+  #hw-tst01-im {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    line-height: 100px;
+    left: 10px;
+    top: 10px;
+    font-size: 38px;
+    line-height: 100px;
+  }
+  #hw-tst01-op, #hw-tst03-op, #hw-tst05-op, #hw-tst07-op, #hw-tst09-op, #hw-tst11-op {
+    line-height: 100px;
+  }
+  #hw-t-st02 {
+    top: 120px;
+  }
+  #hw-tst02-op, #hw-tst04-op,#hw-tst06-op,#hw-tst08-op,#hw-tst10-op {
+    line-height: 50px;
+  }
+  #hw-t-st03 {
+    top: 240px;
+  }
+  #hw-t-st04 {
+    top: 360px;
+  }
+  #hw-t-st05 {
+    top: 480px;
+  }
+  #hw-t-st06 {
+    top: 600px;
+  }
+  #hw-t-st07 {
+    top: 720px;
+  }
+  #hw-t-st08 {
+    top: 840px;
+  }
+  #hw-t-st09 {
+    top: 960px;
+  }
+  #hw-t-st10 {
+    top: 1080px;
+  }
+  #hw-t-st11 {
+    top: 1200px;
+  }
+  #hw-t-st12 {
+    width: 1102px;
+    height: 120px;
+    left: 0px;
+    top: 1320px;
+  }
+  #hw-tst12-1 {
+    width: 1082px;
+    height: 98px;
+    left: 10px;
+    top: 10px;
+  }
+  #hw-tst12-txt {
+    width: 1082px;
+    height: 98px;
+    left: 10px;
+    top: 10px;
+  }
+  #footer {
+    width: 1896px;
+    height: 150px;
+    margin: 0 auto;
+    top: 5208px;
+  }
+  #ftr-txt {
+    width: 1896px;
+    height: 150px;
+    left: 0px;
+    top: 0px;
+  font-size: 40px;
+    line-height: 150px;
+  }
+}
