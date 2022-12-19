@@ -1,0 +1,38 @@
+@media (max-width: 835px) {
+	nav.sticky {
+		position: inherit;
+	}
+	.w2-obj {
+		width: 100%;
+		align-items: center;
+		text-align: center;
+		flex-direction: column;
+	}
+	.entry, .label {
+		max-width: 100%;
+		width: 100%;
+		min-width: 100%;
+		display: flex;
+		flex-direction: column;
+		padding: 0;
+	}
+	.detail {margin:10px;}
+	.sticky > ul {
+		flex-direction: column;
+	}
+	.sticky > ul > li {
+		margin-right: 0px;
+		margin-top: 4px;
+	}
+	.window4 > * {
+		width: 100%;
+	}
+	.w6-columns > div {
+		max-width: 100%;
+		width: 100%;
+		padding: 20px 0;
+	}
+	.form > form {
+		width: 100%;
+	}
+}
